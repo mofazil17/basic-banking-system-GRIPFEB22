@@ -1,0 +1,18 @@
+.App{
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.content-wrap{
+  flex: 1;
+  background:url('https://cdn.pixabay.com/photo/2017/03/14/16/57/silver-2143730_960_720.jpg') ;
+  background-size: cover;
+}
+
+Form,.customerdetails{
+  background-color: white;
+}
+
+Table{
+  text-align: center;
+}

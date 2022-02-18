@@ -1,0 +1,19 @@
+.col-5,
+.col-6 {
+  text-align: left;
+}
+.customerdetails {
+  padding: 1.5rem 2.5rem;
+  font-size: larger;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 0.5rem;
+  min-height: 50vh;
+  margin-top: 1rem;
+}
+.heading {
+  border-bottom: 1px solid black;
+  padding: 0 0 0.8rem 0.5rem;
+}
+.customerdetails div {
+  margin: 0.5rem 0;
+}
